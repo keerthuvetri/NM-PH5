@@ -97,6 +97,7 @@ In Robotics
 
 5. Feedback loop: Sensors continuously update the robot, allowing it to adjust its action
 
+
    
 
 4. TYPES OF DATA COLLECTED 
